@@ -18,7 +18,6 @@ O nível de estresse afeta a qualidade do sono dos entrevistados?
 
 Existe relação entre níveis de atividade física e qualidade do sono?
 
-# **WorkFlow** 
-<img src="/assets/img/Projeto-6.png">
+
 
 
