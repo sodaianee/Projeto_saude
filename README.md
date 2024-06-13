@@ -1,4 +1,4 @@
-# **Análise dos dados da Clínica do Sono: Hábitos do Sono e Estilo de Vida.**
+# **Análise dos dados da Clínica do Sono: Hábitos de Sono e Estilo de Vida.**
 
 Projeto final do Curso Analise de Dados e Dashboard da SoulCode Academy.
 
